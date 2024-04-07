@@ -105,7 +105,7 @@ const styles = StyleSheet.create({
     flex: 1, alignItems: 'center', paddingVertical: scale * 5, justifyContent: 'space-evenly'
   },
   switch: {
-    top: -40
+    top: -height*0.030
   },
   resultContainer: {
     flex: 0.6, justifyContent: 'flex-end'
